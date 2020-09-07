@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/carrito-reactjs/static/css/main.e61dfd42.chunk.css",
+    "main.js": "/carrito-reactjs/static/js/main.4190296c.chunk.js",
+    "main.js.map": "/carrito-reactjs/static/js/main.4190296c.chunk.js.map",
+    "runtime-main.js": "/carrito-reactjs/static/js/runtime-main.72b76df0.js",
+    "runtime-main.js.map": "/carrito-reactjs/static/js/runtime-main.72b76df0.js.map",
+    "static/js/2.ec8348ac.chunk.js": "/carrito-reactjs/static/js/2.ec8348ac.chunk.js",
+    "static/js/2.ec8348ac.chunk.js.map": "/carrito-reactjs/static/js/2.ec8348ac.chunk.js.map",
+    "index.html": "/carrito-reactjs/index.html",
+    "precache-manifest.979c08c243ed36db93a04d0e70de3c65.js": "/carrito-reactjs/precache-manifest.979c08c243ed36db93a04d0e70de3c65.js",
+    "service-worker.js": "/carrito-reactjs/service-worker.js",
+    "static/css/main.e61dfd42.chunk.css.map": "/carrito-reactjs/static/css/main.e61dfd42.chunk.css.map",
+    "static/js/2.ec8348ac.chunk.js.LICENSE.txt": "/carrito-reactjs/static/js/2.ec8348ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72b76df0.js",
+    "static/js/2.ec8348ac.chunk.js",
+    "static/css/main.e61dfd42.chunk.css",
+    "static/js/main.4190296c.chunk.js"
+  ]
+}
