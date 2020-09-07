@@ -1,0 +1,7 @@
+[
+    {"imagen": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone8-silver?wid=1144&hei=1144&fmt=jpeg&qlt=80&op_usm=0.5,0.5&.v=1573770039552", "nombre": "iPhone 8", "precio":30000},
+    {"imagen": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone8plus-spacegray?wid=1144&hei=1144&fmt=jpeg&qlt=95&op_usm=0.5,0.5&.v=1564083513793", "nombre": "iPhone 8 Plus", "precio":40000},
+    {"imagen": "https://m.media-amazon.com/images/I/51V8ObWrpKL._AC_SS350_.jpg", "nombre": "iPhone X", "precio":50000},
+    {"imagen": "https://www.casanissei.com/media/catalog/product/cache/16a9529cefd63504739dab4fc3414065/1/1/11_negrooo_9.jpg", "nombre": "iPhone 11", "precio":100000},
+    {"imagen": "https://zetaelectronica.com.ar/wp-content/uploads/2019/10/iphone-11-pro-max-512gb-lte-4g-black-6gb-ram_10036877_4_1568288135.jpg", "nombre": "iPhone 11 Pro", "precio":130000}
+]
